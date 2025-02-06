@@ -89,3 +89,11 @@ body {
     color: white;
     margin: 10px 0;
   }
+
+  .phone-video {
+    width: 300px;
+    height: 600px; /* Adjust based on aspect ratio */
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px; /* Optional */
+  }
